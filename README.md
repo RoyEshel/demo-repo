@@ -8,4 +8,4 @@
 
 ###### Small Text
 
-Some Description
+Some Description!
